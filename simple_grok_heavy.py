@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Simple Grok Heavy Mode that works with non-tool supporting models"""
-
 import asyncio
 import sys
 from rich.console import Console
@@ -13,7 +10,6 @@ from pydantic_ai import Agent
 import os
 from dotenv import load_dotenv
 
-# Load environment variables
 load_dotenv()
 
 console = Console()

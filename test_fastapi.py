@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Test script for FastAPI service
 Tests the basic functionality of the Enhanced Agentic Workflow API

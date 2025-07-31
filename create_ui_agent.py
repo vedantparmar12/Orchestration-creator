@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Beautiful UI Agent Creation System
-Creates a comprehensive UI agent with multiple capabilities
-"""
-
 import asyncio
 import sys
 from rich.console import Console

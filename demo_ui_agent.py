@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Demo UI Agent Creation System
-Demonstrates creating a beautiful UI agent with pre-configured settings
-"""
-
 import asyncio
 import sys
 from rich.console import Console
@@ -26,7 +20,6 @@ from dotenv import load_dotenv
 from datetime import datetime
 import time
 
-# Load environment variables
 load_dotenv()
 
 console = Console()
